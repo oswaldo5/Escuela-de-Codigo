@@ -1,0 +1,67 @@
+                                  /*<LINUX>*/
+<Linux es un sistema operativo (SO) de open source y una plataforma de infraestructura
+ de TI. SO usado en las 500 principales supercomputadoras más rápidas.>
+<Tal vez lo mejor sobre Linux es que es open source. Linux se lanza en virtud de la
+ Licencia de uso público GNU (GPL). Esto significa que todos pueden ejecutar, estudiar,
+ compartir y modificar el software. El código modificado también se puede redistribuir
+ e incluso vender, pero todo esto se debe hacer con la misma licencia. Esto difiere en
+ gran medida de los sistemas operativos tradicionales (por ejemplo, Unix y Windows) que
+ son propietarios, están bloqueados, se entregan como están y no se pueden modificar.>
+ <Linux puede servir como base para casi todos los tipos de iniciativas de TI, incluidos
+ los contenedores, las aplicaciones nativas de la nube y la seguridad.>
+
+                            --<distribuciones> <Linux>--
+#Para amantes de la estabilidad
+<Red Hat Enterprise Linux>: <Distribución comercial de Linux desarrollada por Red Hat.
+Ofrece una estabilidad y flexibilidad punteras, lo que la coloca como una de las más
+recomendadas para empresas y servidores.>
+<Debian>: <Muy estable y 100% libre, Debian destaca por su sistema
+de paquetería .deb y su gestión de paquetes APT. Es una de las distribuciones más
+importantes de GNU/Linux, ya que en ella se basan gigantes como Ubuntu.>
+<Arch Linux>: <Una distribución modular en la que empiezas desde cero y tienes que ir
+añadiéndole los componentes que quieras. No es muy apta para principiante, y utiliza
+pacman, su propio gestor de paquetes. Se trata de una Rolling Release, lo que quiere
+decir que todos sus componentes van actualizándose sin necesidad de instalar versiones
+nuevas del sistema operativo.>
+
+#Para principiantes
+<Ubuntu:> <Una de las distribuciones más utilizadas gracias a su gran facilidad de uso.
+ Basada en Debian, es amada y odiada por partes iguales por su exclusivo entorno de
+ escritorio Unity, con el que persigue convertirse en una distribución versátil que
+ pueda utilizarse tanto en ordenadores como móviles y tabletas.>
+<Linux Mint:> <Basado en Ubuntu, es uno de los más recomendados para todos aquellos que
+ tocan Linux por primera vez. Su entorno de escritorio, Cinnamon, tiene muchas
+ similitudes con el de Windows, y es también uno de los más personalizables.>
+<Elementary OS:> <De todas las distribuciones basadas en Ubuntu, esta una de las que más
+ personalidad tiene gracias a su cuidadísimo aspecto, que imita el del sistema operativo
+ OS X de Apple. Increíblemente rápida y fácil de usar, le ofrece al usuario todo lo que
+ pueda necesitar desde el primer momento, incluyendo una colección de aplicaciones
+ propias diseñadas para integrarse a la perfección con su estilo visual.>
+
+#Seguridad y privacidad
+<Kali Linux:> <Distribución basada en Debian con una inmensa colección de herramientas
+ para proteger nuestros equipos. Utiliza un kernel personalizado con parches de
+ seguridad y tiene soporte para la arquitectura ARM.>
+<BlackArch Linux:> <Una distribución orientada a la seguridad informática que en un
+ principio nació como expansión de Arch Linux, pero que ha seguido su propio camino.
+ Nos da acceso a una impresionante cantidad de herramientas de hacking entre las que
+ destaca Sploitctl, un script que permite instalar, actualizar y buscar sploits.
+<Parrot OS:> <Es una distro de hacking ético basada en Debian enfocada principalmente
+ a todo lo relacionado con la seguridad informática. Esta distro ha sido diseñada desde
+ cero para plantar cara a otras alternativas, como Kali Linux o BlackArch, centrándose
+ en ofrecer a sus usuarios un completo ecosistema de pruebas de penetración, evaluación
+ y análisis de vulnerabilidades, así como para análisis forense de sistemas,
+ preservación del anonimato y practicar con la criptografía y el cifrado.>
+
+ #Para los equipos menos potentes
+<Puppy Linux:> <Una minúscula distribución que puede llevarse en un USB o CD, pero
+sorprendentemente rápida al cargarse enteramente en la memoria RAM del ordenador.
+Se carga en 30 o 40 segundos y ocupa sólo 100 MB.>
+<Lubuntu:> <Se trata de una versión de Ubuntu mucho más ligera y asequible para equipos
+poco potentes al utilizar el sistema de escritorio LXDE y el gestor de ventanas Openbox.
+También incluye software personalizado bastante más ligero, por lo que sólo nos pide
+128MB de RAM y un Pentium II o Celeron de 1999 para funciona.>
+<Damn Small Linux:> <Distribución especialmente diseñada para los equipos más antiguos,
+como los Pentium de primera generación o incluso los i486. Como entorno gráfico y gestor
+de ventanas nos propone JWM, su iso ocupa apenas 50 MB y sólo nos pide como mínimo un
+Intel 486DX y 16 MB de memoria RAM.> 
